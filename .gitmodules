@@ -1,0 +1,27 @@
+[submodule "project/hackbright-project-jukebox"]
+	path = project/hackbright-project-jukebox
+	url = git@github.com:doria-hackbright/hackbright-project-jukebox.git
+[submodule "skills-assessments/sqlalchemy"]
+	path = skills-assessments/sqlalchemy
+	url = git@github.com:doria-hackbright/skills-sqlalchemy.git
+[submodule "pair-programming/movie-ratings"]
+	path = pair-programming/movie-ratings
+	url = git@github.com:doria-hackbright/movie-ratings.git
+[submodule "skills-assessments/js-sql"]
+	path = skills-assessments/js-sql
+	url = git@github.com:doria-hackbright/skills-js-sql.git
+[submodule "skills-assessments/htmlcss-flask"]
+	path = skills-assessments/htmlcss-flask
+	url = git@github.com:doria-hackbright/skills-htmlcss-flask.git
+[submodule "skills-assessments/dictionaries"]
+	path = skills-assessments/dictionaries
+	url = git@github.com:doria-hackbright/skills-dictionaries.git
+[submodule "skills-assessments/lists"]
+	path = skills-assessments/lists
+	url = git@github.com:doria-hackbright/skills-lists.git
+[submodule "pair-programming/markov-chains"]
+	path = pair-programming/markov-chains
+	url = git@github.com:doria-hackbright/markov-chains.git
+[submodule "pair-programming/markov-chains-2"]
+	path = pair-programming/markov-chains-2
+	url = git@github.com:doria-hackbright/markov-chains-2.git
