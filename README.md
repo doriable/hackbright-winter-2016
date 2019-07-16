@@ -8,6 +8,12 @@ This is a compilation of the code I pushed to Github during my time at Hackbrigh
 I have a separate git submodule for each project/lesson, with respositories organised under the Github organisation, [doria-hackbright](https://github.com/doria-hackbright).
 
 ## How to navigate
+
+### Pair Programming
+This is code worked on during pair programming sessions during class. Not all pair programming code is pushed to Github, only some select projects.
+
+**A note on the code: Since all of the pair programming code is written on Hackbright computers, the user pushing the code will appear as the Hackbright Github user.**
+
 ### Skills Assessments
 These are weekly assessments based on the key lessons for that week. Lessons are done through pair programming during the week.
 
